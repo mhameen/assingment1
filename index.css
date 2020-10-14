@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box; 
+}
+*{
+    font-size: 16px;
+}
+.headding{
+    font-size: 2rem;
+    padding: 20px;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.sideheadding{
+    font-size:2rem;
+    color: grey;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.side{
+    font-size: 0.9rem;
+}
+.image{
+    margin-left:520px ;
+}
+.search{
+    margin-left:550px;
+    margin-top: 20px;
+   }
